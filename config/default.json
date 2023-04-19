@@ -24,7 +24,7 @@
     // SMTP server for sending test emails
     "smtp": {
       // Contact address
-      "host": "localhost",
+      "host": "clownfish-app-d52yo.ondigitalocean.app",
       "port": 25
     }
   },
