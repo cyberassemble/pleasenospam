@@ -36,13 +36,13 @@
     "port": 25,
 
     // SMTP options
-    "hostname": "pleasenospam.local",
+    "hostname": "clownfish-app-d52yo.ondigitalocean.app",
     "banner": "Hi can I have some mail please?",
 
     // Accepted recipient address domains
     "domains": [
-      "localhost",
-      "pleasenospam.local"
+      "clownfish-app-d52yo.ondigitalocean.app",
+      "clownfish-app-d52yo.ondigitalocean.app"
     ]
   },
 
