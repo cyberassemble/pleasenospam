@@ -1,7 +1,7 @@
 {
   "app": {
     "keys": [
-      "random key here"
+      "ranhxjsj88vdhjw"
     ],
 
     "smtp": {
@@ -10,11 +10,11 @@
   },
 
   "mail": {
-    "hostname": "pleasenospam.email",
+    "hostname": "nullbite.net",
 
     "domains": [
-      "pleasenospam.email",
-      "spamlessmail.org"
+      "cxauto.dev",
+      "nullbite.net"
     ]
   },
 
