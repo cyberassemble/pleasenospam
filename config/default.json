@@ -24,7 +24,7 @@
     // SMTP server for sending test emails
     "smtp": {
       // Contact address
-      "host": "clownfish-app-d52yo.ondigitalocean.app",
+      "host": "nospam.li",
       "port": 25
     }
   },
@@ -36,13 +36,12 @@
     "port": 25,
 
     // SMTP options
-    "hostname": "clownfish-app-d52yo.ondigitalocean.app",
+    "hostname": "nospam.li",
     "banner": "Hi can I have some mail please?",
 
     // Accepted recipient address domains
     "domains": [
-      "clownfish-app-d52yo.ondigitalocean.app",
-      "clownfish-app-d52yo.ondigitalocean.app"
+      "nospam.li"
     ]
   },
 
