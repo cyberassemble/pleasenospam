@@ -10,11 +10,10 @@
   },
 
   "mail": {
-    "hostname": "nullbite.net",
+    "hostname": "nospam.li",
 
     "domains": [
-      "cxauto.dev",
-      "nullbite.net"
+      "nospam.li",
     ]
   },
 
